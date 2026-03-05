@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Randomnumber
+comment0.text=\r\n\ They\ program\ generats\ a\ random\ number\ between\ 10\ and\ 99\r\n\ It\ analyzes\ whether\ a\ random\ number\ is\ a\ multiple\ of\ 10,\ whether\ both\ digits\ are\ the\ same\r\n\ whether\ the\ sum\ of\ both\ digits\ are\ the\ same\ and\ whether\ the\ letter\ of\ the\ first\ digits\ begins\ with\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
